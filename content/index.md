@@ -1,6 +1,4 @@
 ---
-title: Welcome to Quartz
+title: Notas de JP📝
 ---
-
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+Bienvenidos a mi repositorio de notas de la universidad. En él podrás encontrar mis apuntes personales de cada materia junto con el material de las clases.
