@@ -1,3 +1,0 @@
-- [[Taller - Parcial 1 Calc.pdf]]
-- [[Parcial 1 de ejemplo - Calc.jpg]]
-- [[Ejemplo Parcial 1 - Daniel.pdf]]
