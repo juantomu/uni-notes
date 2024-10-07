@@ -1,6 +1,6 @@
 # 009 - Derivadas
 ***
-- Recta tangente con pendiente
-- Derivada
-- rectas tangentes verticales
+- [[Recta tangente con pendiente]]
+- [[Derivada]]
+- [[Rectas tangentes verticales]]
 - 
