@@ -39,3 +39,8 @@ $$\\det\left(A^{-1}\right)=\frac{1}{14}\times\frac{4}{14}-\frac{2}{14}\times\lef
 > [!caution] Propiedad 9
 > $det(A{^n}) = [\det(A)]{^n}$
 
+> [!caution] Propiedad 10
+> El determinante de una matriz triangular superior, inferior, diagonal o escalar es la multiplicación de los elementos de la diagonal principal.
+
+^913259
+

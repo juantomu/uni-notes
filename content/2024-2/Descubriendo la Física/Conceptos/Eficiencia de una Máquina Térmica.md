@@ -1,7 +1,7 @@
 # Eficiencia de una [[Maquinas Térmicas|Máquina Térmica]]
 ***
 $$
-n=\frac{W}{Q_{h}} \quad 1-\frac{Q_{c}}{Q_{h}}
+n=\frac{W}{Q_{h}} \quad=\quad 1-\frac{Q_{c}}{Q_{h}}
 $$
 
 | Variable | Nombre          | Valores       |

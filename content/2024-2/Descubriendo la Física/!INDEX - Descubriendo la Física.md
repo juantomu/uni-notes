@@ -25,6 +25,10 @@
 ***
 - [[006 - Mecánica del Calor]]
 - [[007 - Ruedas y Rotaciones]]
-- [[008 - Entropía]]
-
+- [[008 - Potencia y Eficiencia]]
+- [[009 - Entropía]]
+### Unidad 3
+***
+- [[010 - Electromagnetismo]]
+- 
 

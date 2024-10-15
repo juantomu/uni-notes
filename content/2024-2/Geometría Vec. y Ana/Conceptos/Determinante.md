@@ -22,8 +22,7 @@ El método a continuación es válido exclusivamente para matrices 3x3.
 ![[det sarrus.png]]
 ## Matrices 3x3 - Cofactores
 ***
-$$
-A=\begin{bmatrix}-2 & 3 & 1\\ 5 & 0 & 2\\ -1 & -3 & 4\end{bmatrix}$$
+$$A=\begin{bmatrix}-2 & 3 & 1\\ 5 & 0 & 2\\ -1 & -3 & 4\end{bmatrix}$$
 
 **Ejemplo Fila 3**
 

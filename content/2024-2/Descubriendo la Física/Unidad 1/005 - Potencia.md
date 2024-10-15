@@ -2,10 +2,6 @@
 ***
 > [!danger]  **Recursos**
 > Diapositivas: [[Diapos. - Clase 6 (Descubriendo).pdf]]
-## Conceptos
-***
-- ???
-
 ## Fórmulas y Magnitudes
 ***
 - [[Potencia]]

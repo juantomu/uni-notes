@@ -14,7 +14,6 @@
 - [[Mecanismos de Transferencia de Calor]]
 - [[Mecanismos de Transferencia de Energía]]
 - [[Temperatura]]
- 
 ## Formulas y Magnitudes
 ***
 - [[Cantidad de calor - Ley de Black]]
