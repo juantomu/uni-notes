@@ -28,6 +28,7 @@ $$A=\begin{bmatrix}-2 & 3 & 1\\ 5 & 0 & 2\\ -1 & -3 & 4\end{bmatrix}$$
 
 $$\det\left(A\right)=\left(-1\right)^{3+1}\left(-1\right)\begin{vmatrix}3 & 1\\ 0 & 2\end{vmatrix}+\left(-1\right)^{3+2}\left(-3\right)\begin{vmatrix}-2 & 1\\ 5 & 2\end{vmatrix}+\left(-1\right)^{3+3}\left(4\right)\begin{vmatrix}-2 & 3\\ 5 & 0\end{vmatrix}$$
 
+
 $$\begin{align}\det(A)&=(-1) (6-0)-(-3) (-4-5)+4 (0-15) \\\det(A)&=-6-27-60=-93\end{align}$$
 
 **Paso 1:** Elegir una Fila o Columna cualquiera.

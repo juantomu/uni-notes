@@ -17,7 +17,9 @@ $$\\det\left(A^{-1}\right)=\frac{1}{14}\times\frac{4}{14}-\frac{2}{14}\times\lef
 
 > [!caution] Propiedad 3
 > $\det(kA) = k^n \times \det (A)$
+> 
 > $$\begin{align}\text{Si n es par }  &\det(-A)=(-1){{^{\text{par}}}}\det(A)=\det(A)\\\text{Si n es impar }&\det(-A)=(-1){{^{\text{impar}}}}\det(A)=-\det(A)\end{align}$$
+> 
 > $n$ = orden de la matriz
 
 > [!caution] Propiedad 4
